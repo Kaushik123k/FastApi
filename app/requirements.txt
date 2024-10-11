@@ -1,5 +1,13 @@
+
 # requirements.txt
 fastapi
 uvicorn
 sqlalchemy
 pydantic
+
+# requirements.txt
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+
